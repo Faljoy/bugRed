@@ -1,0 +1,17 @@
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\NUnit3.TestAdapter.dll
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\NUnit3.TestAdapter.pdb
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\nunit.engine.dll
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\nunit.engine.api.dll
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\bugred.dll
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\bugred.pdb
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\Newtonsoft.Json.dll
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\nunit.framework.dll
+D:\курсы\дз\hw 15\bugred\bugred\bin\Debug\net472\RestSharp.dll
+D:\курсы\дз\hw 15\bugred\bugred\obj\Debug\net472\bugred.csprojAssemblyReference.cache
+D:\курсы\дз\hw 15\bugred\bugred\obj\Debug\net472\bugred.AssemblyInfoInputs.cache
+D:\курсы\дз\hw 15\bugred\bugred\obj\Debug\net472\bugred.AssemblyInfo.cs
+D:\курсы\дз\hw 15\bugred\bugred\obj\Debug\net472\bugred.csproj.CoreCompileInputs.cache
+D:\курсы\дз\hw 15\bugred\bugred\obj\Debug\net472\bugred.csproj.CopyComplete
+D:\курсы\дз\hw 15\bugred\bugred\obj\Debug\net472\bugred.dll
+D:\курсы\дз\hw 15\bugred\bugred\obj\Debug\net472\bugred.pdb

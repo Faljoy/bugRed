@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Lt2MzIPlMtVtexO8uQM+q+dHxY3en2ikeM5hFGoFpySFrRl+6hpAcpURUnpMrGFV5y3WJ4dWOYEUI0x3t8sWQ==",
+  "success": true,
+  "projectFilePath": "D:\\курсы\\дз\\hw 15\\bugred\\bugred\\bugred.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
