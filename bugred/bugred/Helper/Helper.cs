@@ -29,7 +29,7 @@ namespace bugred.Helper
         {
             DateTime dataTime = new DateTime();
             dataTime = DateTime.Now;
-            string dataRandom = dataTime.ToString("ddMMyyyy");
+            string dataRandom = dataTime.ToString("ddMMyyyyhhmmss");
             return dataRandom;
         } 
 
